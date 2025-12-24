@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D250%26section%3Dheader%26text%3DHello%2520World!%26fontSize%3D70%26fontAlignY%3D35%26animation%3DfadeIn%26fontColor%3Dffffff%26desc%3DI%2527m%2520Ahal%2520Dev%2520M%2520S%26descAlignY%3D60%26descAlign%3D50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev" width="100%"/>
 </div>
 
 <h1 align="center">👨‍💻 Ahal Dev M S</h1>
