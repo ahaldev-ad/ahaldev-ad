@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev" width="100%"/>
 </div>
 
-<h1 align="center">👨‍💻 Ahal Dev M S</h1>
 <h3 align="center">🚀 Engineering Student | AI Enthusiast | Creative Developer</h3>
 
 <p align="center">
