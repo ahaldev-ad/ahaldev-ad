@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev&animation=fadeIn" width="100%"/>
 </div>
 
-<h3 align="center" style="font-family: Inconsolata;">Engineering Student | AI Enthusiast | Creative Developer</h3>
+<h3 align="center" style="font-family: Inconsolata, sans-serif ; font-weight: 75; ">Engineering Student | AI Enthusiast | Creative Developer</h3>
 
 <p align="center">
 <em>Welcome to my digital garden where creativity meets code.</em>
