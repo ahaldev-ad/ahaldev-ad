@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev&animation=fadeIn" width="100%"/>
 </div>
 
-<h3 align="center"><code>Engineering Student | AI Enthusiast | Creative Developer</code></h3>
+<h3 align="center"><code>𝖤𝖭𝖦𝖨𝖭𝖤𝖤𝖱𝖨𝖭𝖦 𝖲𝖳𝖴𝖣𝖤𝖭𝖳 | 𝖠𝖨 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳 | 𝖢𝖱𝖤𝖠𝖳𝖨𝖵𝖤 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱</code></h3>
 
 <p align="center">
 <em>Welcome to my digital garden where creativity meets code.</em>
