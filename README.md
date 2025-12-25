@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@75,200..900&display=swap" rel="stylesheet">
 
 <div align="center">
-<img src="[https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev&animation=fadeIn&section=header&textBg=false)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev&animation=fadeIn" width="100%"/>
 </div>
 
 <h3 align="center" style="font-family: Inconsolata;">Engineering Student | AI Enthusiast | Creative Developer</h3>
