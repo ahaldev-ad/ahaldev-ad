@@ -23,7 +23,7 @@
   <strong>B.Tech Computer Science Student</strong> <br>
   Exploring the fusion of <strong>Technology</strong> and <strong>Creativity</strong>
 </p>
-
+</br>
 <ul>
   <li>🎓 <strong>Education:</strong> B.Tech in Computer Science</li>
   <li>🔭 <strong>Focus:</strong> Artificial Intelligence & Full-Stack Web Development</li>
