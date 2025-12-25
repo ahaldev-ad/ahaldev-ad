@@ -15,15 +15,14 @@
 <img src="https://img.shields.io/badge/Portfolio-olivegreen?style=flat" alt="Portfolio" />
 </a>
 </p>
-
+</br></br>
+<hr>
 <h3 align="center">⚡ About Me</h3>
 
 <p align="center">
   <strong>B.Tech Computer Science Student</strong> <br>
   Exploring the fusion of <strong>Technology</strong> and <strong>Creativity</strong>
 </p>
-
-<hr>
 
 <ul>
   <li>🎓 <strong>Education:</strong> B.Tech in Computer Science</li>
