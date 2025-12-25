@@ -16,21 +16,29 @@
 </a>
 </p>
 
-⚡ About Me
+<h3 align="center">⚡ About Me</h3>
 
-I am a B.Tech Computer Science student with a passion for building things that live on the internet. I stand at the intersection of Technology and Creativity, striving to absorb the maximum potential of modern tech.
+<p align="center">
+  <strong>B.Tech Computer Science Student</strong> <br>
+  Exploring the fusion of <strong>Technology</strong> and <strong>Creativity</strong>
+</p>
 
-🎓 Studying: B.Tech in Computer Science
+<hr>
 
-🔭 Focus: Artificial Intelligence & Full Stack Web Development
+<ul>
+  <li>🎓 <strong>Education:</strong> B.Tech in Computer Science</li>
+  <li>🔭 <strong>Focus:</strong> Artificial Intelligence & Full-Stack Web Development</li>
+  <li>🎨 <strong>Passion:</strong> Graphic Designing & UI/UX</li>
+  <li>🌱 <strong>Learning:</strong> AI-powered Web Apps & Advanced Design Patterns</li>
+  <li>💡 <strong>Motto:</strong> <em>“To absorb the maximum potential of modern technologies.”</em></li>
+</ul>
 
-🎨 Passion: Graphic Designing & UI/UX
+<hr>
 
-🌱 Learning: Integrating AI into Web Apps & Advanced Design Patterns
+<p align="center">
+  🚀 Building clean, scalable, and user-centric digital experiences
+</p>
 
-💡 Motto: "To absorb the maximum potential of modern technologies."
-
-🛠️ Tech Stack & Skills
 
 <div align="center">
 <!-- Languages -->
