@@ -1,12 +1,10 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@75,200..900&display=swap" rel="stylesheet">
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev&animation=fadeIn" width="100%"/>
 </div>
 
-<h3 align="center" style="font-family: Inconsolata, sans-serif ; font-weight: 75; ">Engineering Student | AI Enthusiast | Creative Developer</h3>
+<h3 align="center"><code>Engineering Student | AI Enthusiast | Creative Developer</code></h3>
 
 <p align="center">
 <em>Welcome to my digital garden where creativity meets code.</em>
