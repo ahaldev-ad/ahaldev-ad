@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev&animation=fadeIn" width="100%"/>
 </div>
 
-<h3 align="center"><code>𝖤𝖭𝖦𝖨𝖭𝖤𝖤𝖱𝖨𝖭𝖦 𝖲𝖳𝖴𝖣𝖤𝖭𝖳 | 𝖠𝖨 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳 | 𝖢𝖱𝖤𝖠𝖳𝖨𝖵𝖤 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱</code></h3>
+<h3 align="center">𝖤𝖭𝖦𝖨𝖭𝖤𝖤𝖱𝖨𝖭𝖦 𝖲𝖳𝖴𝖣𝖤𝖭𝖳 | 𝖠𝖨 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳 | 𝖢𝖱𝖤𝖠𝖳𝖨𝖵𝖤 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱</h3>
 
 <p align="center">
 <em>Welcome to my digital garden where creativity meets code.</em>
@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://ahaldevms.vercel.app">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit%2520My%2520Site-70a1ff%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-olivegreen?style=for-the-badge" alt="Portfolio" />
 </a>
 </p>
 
