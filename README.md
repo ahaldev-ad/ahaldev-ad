@@ -17,7 +17,7 @@
 </p>
 </br></br>
 <hr>
-<h3 align="center">⚡ About Me</h3>
+<h3 align="center"> About Me</h3>
 
 <p align="center">
   <strong>B.Tech Computer Science Student</strong> <br>
@@ -25,17 +25,17 @@
 </p>
 </br>
 <ul>
-  <li>🎓 <strong>Education:</strong> B.Tech in Computer Science</li>
-  <li>🔭 <strong>Focus:</strong> Artificial Intelligence & Full-Stack Web Development</li>
-  <li>🎨 <strong>Passion:</strong> Graphic Designing & UI/UX</li>
-  <li>🌱 <strong>Learning:</strong> AI-powered Web Apps & Advanced Design Patterns</li>
-  <li>💡 <strong>Motto:</strong> <em>“To absorb the maximum potential of modern technologies.”</em></li>
+  <li> <strong>Education:</strong> B.Tech in Computer Science</li>
+  <li> <strong>Focus:</strong> Artificial Intelligence & Full-Stack Web Development</li>
+  <li> <strong>Passion:</strong> Graphic Designing & UI/UX</li>
+  <li> <strong>Learning:</strong> AI-powered Web Apps & Advanced Design Patterns</li>
+  <li> <strong>Motto:</strong> <em>“To absorb the maximum potential of modern technologies.”</em></li>
 </ul>
 
 <hr>
 
 <p align="center">
-  🚀 Building clean, scalable, and user-centric digital experiences
+   Building clean, scalable, and user-centric digital experiences
 </p>
 
 
