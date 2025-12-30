@@ -41,15 +41,15 @@
 
 <div align="center">
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=arduino,blender,ps,html,js,ai,py,github,vscode" width="300" />
+<img src="https://skillicons.dev/icons?i=arduino,blender,ps,ai,html,js,py,github,vscode" width="300" />
   
 </div>
 
 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dahaldev-ad%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dahaldev-ad%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26langs_count%3D6" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahaldev-ad&show_icons=true">
+
 </div>
 
 🚩 Featured Work
