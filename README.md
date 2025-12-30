@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="mailto:ahaldev.ad@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=85500&format=png&color=000000" alt="Email"/>
+    <img src="https://img.icons8.com/?size=32&id=LPcVDft9Isqt&format=png&color=000000" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ahaldevms">
