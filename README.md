@@ -48,10 +48,7 @@
 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahaldev-ad&show_icons=true&theme=transparent" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaldev-ad&layout=compact" width="320"/>
-
-
+  <img src="https://github.com/ahaldev-ad/ahaldev-ad/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 🚩 Featured Work
