@@ -41,16 +41,8 @@
 
 <div align="center">
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=arduino,blender,ps,html,js,ai,py,github,vscode" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
-
-<!-- Domains -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Artificial%2520Intelligence-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Web%2520Development-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Graphic%2520Design-FF61F6%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-creative-cloud%26logoColor%3Dwhite" />
+<img src="https://skillicons.dev/icons?i=arduino,blender,ps,html,js,ai,py,github,vscode" width="300" />
+  
 </div>
 
 📊 GitHub Analytics
