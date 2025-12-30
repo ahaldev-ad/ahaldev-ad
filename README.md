@@ -45,12 +45,6 @@
   
 </div>
 
-📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github.com/ahaldev-ad/ahaldev-ad/blob/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 🚩 Featured Work
 
