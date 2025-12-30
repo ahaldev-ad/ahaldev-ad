@@ -45,7 +45,9 @@
   
 </div>
 
+</br></br>
 <h3 align="center">Connect With Me</h3>
+
 
 <p align="center">
   <a href="mailto:ahaldev.ad@gmail.com">
@@ -57,7 +59,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://ahaldevms.vercel.app">
-    <img src="https://img.icons8.com/?size=32&id=HmQQr0jYHZxu&format=png&color=000000" alt="GitHub"/>
+    <img src="https://img.icons8.com/?size=32&id=HmQQr0jYHZxu&format=png&color=000000" alt="portfolio"/>
   </a>
   &nbsp;&nbsp;
 </p>
@@ -72,5 +74,5 @@
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" width="100%"/>
+<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" width="100%"/>
 </div>
