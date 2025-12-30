@@ -45,31 +45,23 @@
   
 </div>
 
-
-🚩 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">✨ My Portfolio</h3>
-<p align="center">A showcase of my latest projects, skills, and creative work. Built to demonstrate my dual love for code and design.</p>
-<div align="center">
-<a href="https://ahaldevms.vercel.app">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Project-2ea44f%3Fstyle%3Dplastic" />
-</a>
-</div>
-</td>
-</tr>
-</table>
-
 🤝 Connect With Me
 
 <p align="center">
-<a href="https://ahaldevms.vercel.app">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Personal_Website-20232a%3Fstyle%3Dflat%26logo%3Dreact%26logoColor%3D61dafb" alt="Website"/>
-</a>
-<!-- Add other social links here if needed, e.g., LinkedIn, Twitter -->
+  <a href="mailto:ahaldev.ad@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ahaldevms">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ahaldevms.vercel.app">
+    <img src="https://cdn.simpleicons.org/internetarchive/181717" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
 </p>
+
 
 <br />
 
