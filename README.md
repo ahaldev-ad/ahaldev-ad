@@ -53,11 +53,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ahaldevms">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=32&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://ahaldevms.vercel.app">
-    <img src="https://cdn.simpleicons.org/internetarchive/181717" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/?size=32&id=HmQQr0jYHZxu&format=png&color=000000" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
 </p>
