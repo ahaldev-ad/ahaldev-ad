@@ -35,8 +35,7 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vercel,vscode,arduino,blender,ps,ai&perline=7" />
-<br /><br />
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+
 </div>
 
 <br />
