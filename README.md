@@ -1,71 +1,77 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Ahal%20Dev&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Developer&descSize=16&descAlignY=58" width="100%" alt="Ahal Dev"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Building+AI-powered+web+apps;Designing+clean%2C+user-centric+interfaces" alt="Typing animation"/>
-</a>
-
-<br/><br/>
-
-<a href="https://ahaldevms.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/ahaldevms"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ahaldev.ad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=ahaldev-ad&label=Views&color=2c5364&style=flat-square" alt="Profile views"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ahal%20Dev&animation=fadeIn" width="100%"/>
 </div>
 
-<br/>
+<h3 align="center">𝖤𝖭𝖦𝖨𝖭𝖤𝖤𝖱𝖨𝖭𝖦 𝖲𝖳𝖴𝖣𝖤𝖭𝖳 | 𝖠𝖨 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳 | 𝖢𝖱𝖤𝖠𝖳𝖨𝖵𝖤 𝖣𝖤𝖵𝖤𝖫𝖮𝖯𝖤𝖱</h3>
 
-## About
+<p align="center">
+<em>Welcome to my digital garden where creativity meets code.</em>
+</p>
 
-I'm a B.Tech Computer Science student exploring the fusion of technology and creativity. I enjoy building clean, scalable and user-centric digital experiences, from the first design sketch to the final deployed commit.
+<hr>
 
-- **Focus:** Artificial Intelligence and Full-Stack Web Development
-- **Passion:** Graphic Design and UI/UX
-- **Learning:** AI-powered web apps and advanced design patterns
-- **Open to:** collaborations, internships and creative side projects
+<h3 align="center">About Me</h3>
 
-<br/>
+<p align="center">
+  <strong>B.Tech Computer Science Student</strong> <br>
+  Exploring the fusion of <strong>Technology</strong> and <strong>Creativity</strong>
+</p>
 
-## Skills
+<ul>
+  <li><strong>Education:</strong> B.Tech in Computer Science</li>
+  <li><strong>Focus:</strong> Artificial Intelligence & Full-Stack Web Development</li>
+  <li><strong>Passion:</strong> Graphic Designing & UI/UX</li>
+  <li><strong>Learning:</strong> AI-powered Web Apps & Advanced Design Patterns</li>
+  <li><strong>Motto:</strong> <em>“To absorb the maximum potential of modern technologies.”</em></li>
+</ul>
+
+<hr>
+
+<p align="center">
+  Building clean, scalable, and user-centric digital experiences
+</p>
+
+<h3 align="center">Skills & Tools</h3>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,tailwind" height="36" alt="Web and languages"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" height="36" alt="Design"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,vercel" height="36" alt="Tools"/>
-
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,vercel,vscode,arduino,blender,ps,ai&perline=7" />
+<br /><br />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 </div>
 
-<br/>
+<br />
 
-## GitHub Stats
+<h3 align="center">GitHub Contribution Graph</h3>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahaldev-ad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaldev-ad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahaldev-ad&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahaldev-ad&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution graph" />
 </div>
 
-<br/>
+<h3 align="center">Connect With Me</h3>
+
+<p align="center">
+  <a href="mailto:ahaldev.ad@gmail.com">
+    <img src="https://img.icons8.com/?size=32&id=LPcVDft9Isqt&format=png&color=000000" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ahaldevms">
+    <img src="https://img.icons8.com/?size=32&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ahaldevms.vercel.app">
+    <img src="https://img.icons8.com/?size=32&id=HmQQr0jYHZxu&format=png&color=000000" alt="Portfolio"/>
+  </a>
+</p>
+
+<br />
 
 <div align="center">
-
-<em>"To absorb the maximum potential of modern technologies."</em>
-
-<br/><br/>
-
-<em>"Code is like humor. When you have to explain it, it's bad."</em><br/>
-Cory House
-
+<i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+<br />
+— <b>Cory House</b>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="Footer"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%"/>
+</div>
+
